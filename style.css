@@ -1,0 +1,77 @@
+/* Navbar */
+.custom-nav {
+    background: lightgrey;
+    justify-content: space-between !important;
+    padding: 10px 150px 30px 150px;
+}
+
+.navbar-brand {
+    color: black !important;
+    font-size: 30px;
+}
+
+.nav-item {
+    padding: 0px 10px;
+}
+
+.nav-link {
+    color: grey !important;
+}
+
+.selected {
+    color: black !important;
+    border-bottom: 3px solid grey;
+    padding-bottom: 0px; 
+}
+
+/* Section 1 */
+.section1 {
+    padding: 20px 150px 150px 150px;
+    background: lightgrey;
+}
+
+.sect1-col1 {
+    margin-top: 80px;
+}
+
+.custom-button {
+    background: grey;
+    color: white;
+    padding: 13px 30px;
+    border-radius: 30px;
+    border: none;
+}
+
+
+/* Section2 */
+.section2 {
+    padding: 190px 300px 30px 300px;
+}
+
+.section2-2 {
+    padding: 190px 0px 130px 0px;
+}
+
+
+/* Section3 */
+.section3 {
+    padding: 0px 150px 75px 150px;
+}
+
+i {
+    font-size: 55px;
+    padding: 25px 0px;
+    color: lightgrey;
+}
+
+.services-col {
+    padding: 0px 30px;
+}
+
+.services-col:hover {
+    border-top: 8px solid grey;
+}
+
+.services-desc {
+    font-size: 14px;
+}
